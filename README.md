@@ -12,7 +12,8 @@ Exit: Exit from the window
 
 
 # Output ScreenShot
-![image](https://user-images.githubusercontent.com/104614850/165907220-221ad71e-88f8-47de-b21e-3db2dceecc2d.png)
+![image](https://user-images.githubusercontent.com/104614850/165909211-b85600bf-1d0a-4e1d-a7d1-b5ea08bbd085.png)
+
 
 
 
