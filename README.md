@@ -4,10 +4,10 @@
 
 ## Features of LBS(Library Management System)
 Add Books: With this feature we can add Books in LMS system with book details like Author name, Book name, Published year, ISBN no... /
-View Library: Here we can see all the books are available in library
-Search: In this feature we can serch the book by auther name
-Issue Book: here We are issuing a book
-Delete Book:With this feature we can delete the book
+View Library: Here we can see all the books are available in library /
+Search: In this feature we can serch the book by auther name /
+Issue Book: here We are issuing a book /
+Delete Book:With this feature we can delete the book /
 Exit: Exit from the window
 
 
